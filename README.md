@@ -1,4 +1,4 @@
 # Bootcamp Test Repository
 
-This is a sample repossitory.
+This is a sample repository.
 
