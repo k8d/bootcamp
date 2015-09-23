@@ -1,7 +1,7 @@
 # Vacations
 
 ## Domestic
-- Main
+- Maine
 - Montana
 - Colorado
 
